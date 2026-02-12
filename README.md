@@ -1,16 +1,66 @@
-## Hi there 👋
 
-<!--
-**Joana-Pacheco/joana-pacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💜✨ Olá, eu sou a Joana Pacheco!
 
-Here are some ideas to get you started:
+Em construção constante e oficialmente habitando o lado roxo da tecnologia 🌌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Sobre mim
+
+🎓 Formada em Administração  
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Focada em conquistar minha primeira vaga de estágio/júnior  
+🧠 Apaixonada por lógica, organização e resolução de problemas  
+
+Estou construindo minha base técnica com consistência, aprendendo na prática e publicando minha evolução aqui no GitHub.
+
+---
+
+## 🛠️ Tecnologias em aprendizado
+
+- Lógica de programação
+- HTML5
+- CSS3
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- Git & GitHub
+- Python
+
+
+Próximos passos:
+- JavaScript avançado
+- Python avançado
+- Projetos mais robustos
+- Continuar afiando a mente com mais lógica de programação
+
+---
+
+## 🌌 Projetos em destaque
+
+💜 Portfólio Web  
+- 💜 **[Portfólio Web](https://joana-pacheco.github.io/Portfolio-Joana-Pacheco/)**
+
+(Em constante evolução ✨)
+
+---
+
+## 🐾 Um pouco da Joana além do código
+
+- Escoteira ⚜️
+- Gosto de gatinhos 🐱
+- Amo música 🎵
+- Acredito que organização é uma superpotência
+- Não desisto fácil
+
+
+---
+
+## 📬 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/joanareginapacheco/)
+- 🐙 [GitHub](https://github.com/joana-pacheco)
+
+---
+
+✨ "Em transição não significa perdida. Significa em movimento."
+
+
