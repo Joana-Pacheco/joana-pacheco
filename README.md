@@ -1,7 +1,7 @@
 
 # 💜✨ Olá, eu sou a Joana Pacheco!
 
-Em construção constante e oficialmente habitando o lado roxo da tecnologia 🌌
+💻 Construindo soluções com dados, lógica e organização.
 
 ---
 
@@ -38,10 +38,15 @@ Próximos passos:
 
 ## 🌌 Projetos em destaque
 
+🗄️ Sistema de Ordem de Serviço com SQL  
+- 💻 **[Ver no GitHub](https://github.com/Joana-Pacheco/service-order-database-sql)**  
+- Modelagem de banco de dados (MER)  
+- Consultas com JOIN e GROUP BY  
+
 💜 Portfólio Web  
 - 💜 **[Portfólio Web](https://joana-pacheco.github.io/Portfolio-Joana-Pacheco/)**
 
-(Em constante evolução ✨)
+Em constante evolução ✨
 
 ---
 
@@ -63,6 +68,6 @@ Próximos passos:
 
 ---
 
-✨ "Em transição não significa perdida. Significa em movimento."
+✨ "Construindo minha carreira em tecnologia com consistência e propósito."
 
 
